@@ -1,0 +1,1 @@
+Fazer com que o sistema também mostre as diferenças dos designados
